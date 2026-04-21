@@ -2,5 +2,5 @@
 # Paper trading endpoint: https://paper-api.alpaca.markets/v2
 # Live trading endpoint:  https://api.alpaca.markets/v2
 endpoint = "https://paper-api.alpaca.markets/v2"
-key = "YOUR_ALPACA_KEY_ID"
-secret = "YOUR_ALPACA_SECRET_KEY"
+key = "PKKLCGZ6R6S72GFS2ANTNR5VVV"
+secret = "3qyvRvyUoXNEv3r1nWSFnWB3njKLEamkAQJm5YbpXCEa"
